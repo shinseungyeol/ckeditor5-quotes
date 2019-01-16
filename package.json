@@ -1,0 +1,22 @@
+{
+  "name": "ckeditor5-quotes",
+  "version": "1.0.0",
+  "description": "This is quotes pluglin for ckeditor5.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinseungyeol/ckeditor5-quotes.git"
+  },
+  "keywords": [
+    "ckeditor5"
+  ],
+  "author": "shinseungyeol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinseungyeol/ckeditor5-quotes/issues"
+  },
+  "homepage": "https://github.com/shinseungyeol/ckeditor5-quotes#readme"
+}
